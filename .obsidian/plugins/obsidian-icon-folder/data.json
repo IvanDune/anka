@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiAxe",
+      "LiBaby",
+      "LiAlertCircle"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Главы/Оглавление.md": {
+    "iconName": "LiAlertCircle",
+    "iconColor": "#b177ac"
+  },
+  "Главы/Ветка Дарра.md": {
+    "iconName": "LiBaby",
+    "iconColor": "#188316"
+  },
+  "Ветка Дарра": {
+    "iconName": "LiBaby",
+    "iconColor": "#4ba824"
+  },
+  "Ветка Рики": {
+    "iconName": "LiAxe",
+    "iconColor": "#8e5f9b"
+  }
+}
