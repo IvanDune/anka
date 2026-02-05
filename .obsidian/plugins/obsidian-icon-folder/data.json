@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiActivity",
       "LiAxe",
       "LiBaby",
       "LiAlertCircle"
@@ -34,18 +35,30 @@
   },
   "Главы/Оглавление.md": {
     "iconName": "LiAlertCircle",
-    "iconColor": "#b177ac"
+    "iconColor": "#945214"
+  },
+  "Ветки/Ветка Дарра": {
+    "iconName": "LiBaby",
+    "iconColor": "#4ba824"
+  },
+  "Ветки/Ветка Рики": {
+    "iconName": "LiAxe",
+    "iconColor": "#8e5f9b"
+  },
+  "Ветки/Ветка Магов": {
+    "iconName": "LiActivity",
+    "iconColor": "#9e4810"
   },
   "Главы/Ветка Дарра.md": {
     "iconName": "LiBaby",
     "iconColor": "#188316"
   },
-  "Ветка Дарра": {
-    "iconName": "LiBaby",
-    "iconColor": "#4ba824"
-  },
-  "Ветка Рики": {
+  "Главы/Ветка Рики.md": {
     "iconName": "LiAxe",
-    "iconColor": "#8e5f9b"
+    "iconColor": "#ad56b8"
+  },
+  "Главы/Ветка магов.md": {
+    "iconName": "LiActivity",
+    "iconColor": "#9d370c"
   }
 }

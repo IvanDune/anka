@@ -1,3 +1,7 @@
 {
-  "cssTheme": ""
+  "cssTheme": "Material Gruvbox",
+  "accentColor": "#61437f",
+  "interfaceFontFamily": "Bangers",
+  "theme": "obsidian",
+  "textFontFamily": "Comic Sans MS"
 }
