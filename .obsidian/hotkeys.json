@@ -33,12 +33,6 @@
         "Alt"
       ],
       "key": "ArrowLeft"
-    },
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Z"
     }
   ],
   "editor:toggle-spellcheck": [

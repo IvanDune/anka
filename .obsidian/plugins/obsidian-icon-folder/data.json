@@ -49,10 +49,6 @@
     "iconName": "LiActivity",
     "iconColor": "#9e4810"
   },
-  "Главы/Ветка Дарра.md": {
-    "iconName": "LiBaby",
-    "iconColor": "#188316"
-  },
   "Главы/Ветка Рики.md": {
     "iconName": "LiAxe",
     "iconColor": "#ad56b8"
@@ -60,5 +56,9 @@
   "Главы/Ветка магов.md": {
     "iconName": "LiActivity",
     "iconColor": "#9d370c"
+  },
+  "Главы/Ветка Дарра.md": {
+    "iconName": "LiBaby",
+    "iconColor": "#188316"
   }
 }
