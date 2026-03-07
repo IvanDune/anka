@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAxis3d",
       "LiActivity",
       "LiAxe",
       "LiBaby",
@@ -60,5 +61,6 @@
   "Главы/Ветка Дарра.md": {
     "iconName": "LiBaby",
     "iconColor": "#188316"
-  }
+  },
+  "Главы/Ветка Кьяры.md": "LiAxis3d"
 }
